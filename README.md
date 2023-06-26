@@ -1,5 +1,7 @@
 # Human Resource for a Software Development
 
+**Note: Don't use ChatGPT for this assignment**
+
 Imagine a company with following teams (total 30 people):
 
 1. Backend Developers
