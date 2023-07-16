@@ -20,3 +20,6 @@ What are the tools in your view and how would you like to finish onboarding?
 
 ## Offsite
 In a document plan an offsite 3 days in a city for discussion on the new assignment for the team for the first time meeting.
+
+## Clarification
+Feel free to ask question for any clarification if the chat group we will create for you
